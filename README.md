@@ -16,7 +16,7 @@ Student Name:
 Course: 
 Section: 
 
- Member Management Module
+Member Management Module
 
  Features
 - Register New Member
