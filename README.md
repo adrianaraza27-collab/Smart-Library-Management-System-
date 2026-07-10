@@ -22,3 +22,10 @@ Member Management Module
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name: Adrian Araza
+
+Feature Added:
+- Digital Library Dashboard
