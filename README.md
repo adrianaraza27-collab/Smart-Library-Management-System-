@@ -29,3 +29,4 @@ Contributor Name: Adrian Araza
 
 Feature Added:
 - Digital Library Dashboard
+...
